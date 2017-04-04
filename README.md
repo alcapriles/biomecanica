@@ -1,2 +1,2 @@
 # biomecanica
-Biologia + Mecânica + Mecatrônica = Órgãos artificiais e equipamentos médicos. 
+Curvas de pneumotacógrafos laminares e turbulentos.
